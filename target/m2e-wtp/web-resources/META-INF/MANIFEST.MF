@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springcloud-app-service1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: wang_jie
+Implementation-Vendor-Id: com.hengrun.cloud
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springcloud-app-service1
+Created-By: Maven Integration for Eclipse
+
