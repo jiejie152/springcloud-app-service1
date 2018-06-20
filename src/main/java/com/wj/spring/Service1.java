@@ -14,7 +14,7 @@ public class Service1 {
 	@ResponseBody
 	@RequestMapping(value="/")
 	public String home() {   
-        return "Hello Git!";
+        return "Hello Git2!";
     }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
